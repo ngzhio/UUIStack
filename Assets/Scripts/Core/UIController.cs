@@ -15,7 +15,7 @@ public class UIController : MonoBehaviour
         }
     }
 
-    public void SetUIVisible(bool visible)
+    public virtual void SetUIVisible(bool visible)
     {
         gameObject.SetActive(visible);
     }
