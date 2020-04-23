@@ -1,5 +1,3 @@
-using UnityEngine;
-
 public interface IUIResourceDelegate
 {
     UIController Load(string uiName);
