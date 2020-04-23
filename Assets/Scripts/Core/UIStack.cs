@@ -20,7 +20,7 @@ public class UIStack
 
     private static UIStack instance;
 
-    public UIStack GetInstance()
+    public static UIStack GetInstance()
     {
         if (instance == null)
         {
@@ -34,9 +34,10 @@ public class UIStack
 
     }
 
-    public void Init(IUIResourceDelegate uIResourceDelegate)
+    public UIStack Init(IUIResourceDelegate uIResourceDelegate)
     {
         this.uIResourceDelegate = uIResourceDelegate;
+        return this;
     }
 
     /**
@@ -47,7 +48,7 @@ public class UIStack
      * @param swallow    Whether the UI should swallow UIs beneath it.
      * @param duplicate  Whether the UI can be duplicated.
      */
-    public void Open(string name, IUIArguments arguments, bool swallow = false, bool duplicate = false)
+    public void Open(string name, IUIArguments arguments = null, bool swallow = false, bool duplicate = false)
     {
         if (duplicate)
         {
@@ -137,6 +138,10 @@ public class UIStack
     private void Create(string name, IUIArguments arguments, bool swallow)
     {
         UIController controller = uIResourceDelegate.Load(name);
+        if (controller == null)
+        {
+            return;
+        }
 
         var uiInfo = new UIInfo
         {
