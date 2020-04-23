@@ -45,11 +45,11 @@ public class UIStack
      * @param name       The name of the UI.
      * @param arguments  The arguments passed to the UI.
      * @param swallow    Whether the UI should swallow UIs beneath it.
-     * @param create     Whether force to create a new instance of the UI.
+     * @param duplicate  Whether the UI can be duplicated.
      */
-    public void Open(string name, IUIArguments arguments, bool swallow = false, bool create = false)
+    public void Open(string name, IUIArguments arguments, bool swallow = false, bool duplicate = false)
     {
-        if (create)
+        if (duplicate)
         {
             Create(name, arguments, swallow);
         }
