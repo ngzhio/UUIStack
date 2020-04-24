@@ -4,20 +4,22 @@ using UnityEngine;
 
 public class UIController : MonoBehaviour
 {
-    [SerializeField]
-    private string uiName;
-
     public string Name 
     {
         get
         {
-            return uiName;
+            return this.GetType().Name;
         }
     }
 
     public virtual void SetUIVisible(bool visible)
     {
         gameObject.SetActive(visible);
+    }
+
+    public virtual void SetDepth(int depth)
+    {
+        Debug.Log($"Set the depth of '{this.Name}' to {depth}.");
     }
 
     public virtual void OnCreate(IUIArguments arguments)
