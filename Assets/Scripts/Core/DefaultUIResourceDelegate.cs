@@ -2,6 +2,10 @@ using UnityEngine;
 
 public class DefaultUIResourceDelegate : IUIResourceDelegate
 {
+    public static readonly string UI_ROOT_NAME = "UIRoot";
+
+    private GameObject uiRoot;
+
     public UIController Load(string uiName)
     {
         var res = Resources.Load<GameObject>($"UI/{uiName}");
@@ -11,7 +15,19 @@ public class DefaultUIResourceDelegate : IUIResourceDelegate
             return null;
         }
 
+        if (this.uiRoot == null)
+        {
+            this.uiRoot = GameObject.Find(UI_ROOT_NAME);
+            if (this.uiRoot == null)
+            {
+                this.uiRoot = new GameObject();
+                this.uiRoot.name = UI_ROOT_NAME;
+            }
+        }
+
         var obj = GameObject.Instantiate(res);
+        obj.transform.SetParent(this.uiRoot.transform);
+
         return obj.GetComponent<UIController>();
     }
 
