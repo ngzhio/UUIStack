@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 6a295cb56494cf14bb2d33516f0e3464
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: b_Achievement
+  - first:
+      213: 21300002
+    second: b_acv_2
+  - first:
+      213: 21300004
+    second: b_bag
+  - first:
+      213: 21300006
+    second: b_bag_2
+  - first:
+      213: 21300008
+    second: b_hero
+  - first:
+      213: 21300010
+    second: b_hero_2
+  - first:
+      213: 21300012
+    second: b_rune_2
+  - first:
+      213: 21300014
+    second: b_skill
+  - first:
+      213: 21300016
+    second: b_skill_2
+  - first:
+      213: 21300018
+    second: b_team
+  - first:
+      213: 21300020
+    second: b_team_2
+  - first:
+      213: 21300022
+    second: maoxian_1
+  - first:
+      213: 21300024
+    second: paiwei
+  - first:
+      213: 21300026
+    second: pipei_2
+  - first:
+      213: 21300028
+    second: Rune
+  - first:
+      213: 21300030
+    second: shop
+  - first:
+      213: 21300032
+    second: win
+  - first:
+      213: 21300034
+    second: guangbo
+  - first:
+      213: 21300036
+    second: jingyan
+  - first:
+      213: 21300038
+    second: jingyan_2
+  - first:
+      213: 21300040
+    second: myself
+  - first:
+      213: 21300042
+    second: newhero
+  - first:
+      213: 21300044
+    second: newhero_2
+  - first:
+      213: 21300046
+    second: red
+  - first:
+      213: 21300048
+    second: Center
+  - first:
+      213: 21300050
+    second: top-battle_2
+  - first:
+      213: 21300052
+    second: battle_bg
+  - first:
+      213: 21300054
+    second: bg_shijie
+  - first:
+      213: 21300056
+    second: dianjitexiao
+  - first:
+      213: 21300058
+    second: dianjitexiao2
+  - first:
+      213: 21300060
+    second: b_shop
+  - first:
+      213: 21300062
+    second: b_shop_2
+  - first:
+      213: 21300064
+    second: tag_bg_1
+  - first:
+      213: 21300066
+    second: Left
+  - first:
+      213: 21300068
+    second: Right
+  - first:
+      213: 21300070
+    second: Center
+  - first:
+      213: 21300072
+    second: Right
+  - first:
+      213: 21300074
+    second: +
+  - first:
+      213: 21300076
+    second: arm
+  - first:
+      213: 21300078
+    second: backpack
+  - first:
+      213: 21300080
+    second: chat
+  - first:
+      213: 21300082
+    second: configuration
+  - first:
+      213: 21300084
+    second: detail
+  - first:
+      213: 21300086
+    second: dianfengsai
+  - first:
+      213: 21300088
+    second: down_bg
+  - first:
+      213: 21300090
+    second: e-mail
+  - first:
+      213: 21300092
+    second: epigraph
+  - first:
+      213: 21300094
+    second: gem_01
+  - first:
+      213: 21300096
+    second: gold_01
+  - first:
+      213: 21300098
+    second: gold_bg
+  - first:
+      213: 21300100
+    second: hero
+  - first:
+      213: 21300102
+    second: hero_name_bg
+  - first:
+      213: 21300104
+    second: jade_01
+  - first:
+      213: 21300106
+    second: level_01
+  - first:
+      213: 21300108
+    second: level_bg
+  - first:
+      213: 21300110
+    second: level_tx
+  - first:
+      213: 21300112
+    second: maoxian
+  - first:
+      213: 21300114
+    second: name_1
+  - first:
+      213: 21300116
+    second: paiweisai
+  - first:
+      213: 21300118
+    second: pipei
+  - first:
+      213: 21300120
+    second: tx_bg
+  - first:
+      213: 21300122
+    second: tx_kuang
+  - first:
+      213: 21300124
+    second: up_bg
+  - first:
+      213: 21300126
+    second: wifi
+  - first:
+      213: 21300128
+    second: battery_01
+  - first:
+      213: 21300130
+    second: battery_02
+  - first:
+      213: 21300132
+    second: friend
+  - first:
+      213: 21300134
+    second: dianfengsai_2
+  - first:
+      213: 21300136
+    second: dianfengsai_3
+  - first:
+      213: 21300138
+    second: dianfengsai_bg
+  - first:
+      213: 21300140
+    second: maoxian_2
+  - first:
+      213: 21300142
+    second: maoxian_3
+  - first:
+      213: 21300144
+    second: maoxian_bg
+  - first:
+      213: 21300146
+    second: paiweisai_2
+  - first:
+      213: 21300148
+    second: paiweisai_3
+  - first:
+      213: 21300150
+    second: paiweisai_bg
+  - first:
+      213: 21300152
+    second: pipei_3
+  - first:
+      213: 21300154
+    second: pipei_bg
+  - first:
+      213: 21300156
+    second: reddot
+  - first:
+      213: 21300158
+    second: Wifi_3
+  - first:
+      213: 21300160
+    second: tag_bg
+  - first:
+      213: 21300162
+    second: up_bg_01(1)
+  - first:
+      213: 21300164
+    second: up_bg_02(1)
+  - first:
+      213: 21300166
+    second: dianfengsai_tx
+  - first:
+      213: 21300168
+    second: maoxian_tx
+  - first:
+      213: 21300170
+    second: paiweisai_tx
+  - first:
+      213: 21300172
+    second: pipei_tx
+  - first:
+      213: 21300174
+    second: up_bg_01
+  - first:
+      213: 21300176
+    second: up_bg_02
+  - first:
+      213: 21300178
+    second: Extern
+  - first:
+      213: 21300180
+    second: bj-011bz
+  - first:
+      213: 21300182
+    second: bg-01zjm
+  - first:
+      213: 21300184
+    second: bg-02zjm
+  - first:
+      213: 21300186
+    second: dengji-01zjm
+  - first:
+      213: 21300188
+    second: dengji-02zjm
+  - first:
+      213: 21300190
+    second: icon-01zjm
+  - first:
+      213: 21300192
+    second: icon-02zjm
+  - first:
+      213: 21300194
+    second: icon-03zjm
+  - first:
+      213: 21300196
+    second: icon-04zjm
+  - first:
+      213: 21300198
+    second: icon-05zjm
+  - first:
+      213: 21300200
+    second: icon-06zjm
+  - first:
+      213: 21300202
+    second: icon-07zjm
+  - first:
+      213: 21300204
+    second: icon-08zjm
+  - first:
+      213: 21300206
+    second: icon-09zjm
+  - first:
+      213: 21300208
+    second: jia-01zjm
+  - first:
+      213: 21300210
+    second: jqqd-01zjm
+  - first:
+      213: 21300212
+    second: paiweisai-01zjm
+  - first:
+      213: 21300214
+    second: quan-01zjm
+  - first:
+      213: 21300216
+    second: renjisai-01zjm
+  - first:
+      213: 21300218
+    second: shop-01zjm
+  - first:
+      213: 21300220
+    second: tiao-01bj
+  - first:
+      213: 21300222
+    second: tuupian-01zjm
+  - first:
+      213: 21300224
+    second: xlc-01zjm
+  - first:
+      213: 21300226
+    second: button-01pws
+  - first:
+      213: 21300228
+    second: fg
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg-01zjm
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 873
+        width: 1920
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49333334}
+      border: {x: 1177, y: 0, z: 233, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912b9d79c22816f47b8aa3e9258f54d2
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-02zjm
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 772
+        width: 1454
+        height: 99
+      alignment: 9
+      pivot: {x: 0.4883081, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e736ee398654e5043ae67b29adb94c53
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-01pws
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 13
+        width: 180
+        height: 84
+      alignment: 9
+      pivot: {x: 0.475, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0876eb8ca2e45af4e98b102f21332678
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dengji-01zjm
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 38
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f80fec4aefabad4d82ecc6316c2d912
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dengji-02zjm
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 64
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9981921fef503c34b9bc6a4c0f18b797
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fg
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 954
+        width: 2
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133c94eda89c4ef4597a50bdba33650d
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: friend
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 18
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0964d4cf32dbcee48ba2286a958292f1
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-01zjm
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 266
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176b9f7889ae4fc44a05289d5cf252a0
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-02zjm
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 62
+        width: 72
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4861111, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae4b36b5babf9540ac9ed42c3de4769
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-03zjm
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 67
+        width: 74
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.53521127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4021390ba38a9dc4f8d466c11720fe25
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-04zjm
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 64
+        width: 55
+        height: 74
+      alignment: 9
+      pivot: {x: 0.36363637, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961aa8e49d059ce408f9898a2a8584f3
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-05zjm
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 935
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba54f4a5ea8a11489b263ddee7d6241
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-06zjm
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 845
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4551c11042def4280145cac000b780
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-07zjm
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 9
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5f680480e641349b85924187d9177f
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-08zjm
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 9
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bf3d5866357d744a18161741397c3b
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-09zjm
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 9
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a1d569a8cba18408f6970645b68c3d
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jia-01zjm
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 8
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea51264b2fc31cc4ebffb67b02d41823
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jqqd-01zjm
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 381
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f02bc7e69170a44994ef8d319e3b36
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paiweisai-01zjm
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 425
+        width: 420
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ec68256dc1c5b4ebed8376b416b565
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quan-01zjm
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 116
+        width: 147
+        height: 148
+      alignment: 9
+      pivot: {x: 0.50340134, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbf125c490e4ee4ebc206f515029e2c
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renjisai-01zjm
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 448
+        width: 323
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40131af5e2772b04d88f9033c7a67a0d
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-01zjm
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 641
+        width: 156
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2a9f3366a6fb240a4a6191b81a7562
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiao-01bj
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 803
+        width: 167
+        height: 40
+      alignment: 9
+      pivot: {x: 0.502994, y: 0.5}
+      border: {x: 22, y: 0, z: 29, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f664f3d14b84e4448a431ec06effda62
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuupian-01zjm
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 140
+        width: 540
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968342a7f525dbd4ebd93e480556ef06
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xlc-01zjm
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 99
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1923a74727322824e9afda52127f709e
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6a0a493d48121cd4ba1bf9ece4d30655
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: 5f68d0aac8a78aa428ca5282a3f61c6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: DailyActivities
+  - first:
+      213: 21300002
+    second: bg-02mr
+  - first:
+      213: 21300004
+    second: bg-03mr
+  - first:
+      213: 21300006
+    second: bg-04mr
+  - first:
+      213: 21300008
+    second: bg-05mr
+  - first:
+      213: 21300010
+    second: bg-06mr
+  - first:
+      213: 21300012
+    second: button-01mr
+  - first:
+      213: 21300014
+    second: button-02mr
+  - first:
+      213: 21300016
+    second: button-03mr
+  - first:
+      213: 21300018
+    second: button-04mr
+  - first:
+      213: 21300020
+    second: button-05mr
+  - first:
+      213: 21300022
+    second: button-06mr
+  - first:
+      213: 21300024
+    second: button-07mr
+  - first:
+      213: 21300026
+    second: girl-01mr
+  - first:
+      213: 21300028
+    second: icon-01mr
+  - first:
+      213: 21300030
+    second: icon-02mr
+  - first:
+      213: 21300032
+    second: icon-03mr
+  - first:
+      213: 21300034
+    second: icon-04mr
+  - first:
+      213: 21300036
+    second: wenzi-01mr
+  - first:
+      213: 21300038
+    second: wenzi-02mr
+  - first:
+      213: 21300040
+    second: line-01mr
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg-02mr
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 44
+        width: 664
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78ead1237e7df742b73199802beff56
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-03mr
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 200
+        width: 436
+        height: 419
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4988067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f081269bbbdb47c4d854549e407dc56e
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-04mr
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1400
+        width: 192
+        height: 647
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4992272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce8d9bc9dd8e3845971e307f46bac2e
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-05mr
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1991
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 23, y: 23, z: 24, w: 24}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60b0b8dbdda2e8499534c931fff3674
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-06mr
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 471
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad40ea86738cc0448964516ef98409a5
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-01mr
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 279
+        width: 159
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5031447, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068355c344957aa4690e0640e45c9839
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-02mr
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 531
+        width: 368
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 138, y: 0, z: 136, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b633c77e72835c148856d450c2d91f00
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-03mr
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 441
+        width: 368
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 138, y: 0, z: 136, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d5aca68d8c2c445b5c82f9fa8cdb0f
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-04mr
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1096
+        width: 175
+        height: 104
+      alignment: 9
+      pivot: {x: 0.50285715, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e2e8a55a4821948980a33d050ee6c1
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-05mr
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 990
+        width: 175
+        height: 104
+      alignment: 9
+      pivot: {x: 0.50285715, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d85f96e1149ff944a24e2aa625572cb
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-06mr
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1202
+        width: 180
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726e1ed371f8b0f4dab5343696436798
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-07mr
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 243
+        width: 180
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71ee6b750cd93a45a93b194ee1ea1eb
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-01mr
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 983
+        width: 720
+        height: 1064
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f01633ee93b0fe41ac9e5789cbd1337
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-01mr
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 22
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075c8348e181908498d61a38562471ac
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-02mr
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 555
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd0d81c0a68d0e42a7179a0b108cbf1
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-03mr
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1925
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a96fdd1cc87ba438375bb93102544c
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-04mr
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 489
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4649aca68221e0d4fa17d53c5197932d
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line-01mr
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 597
+        width: 2
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dbba9c48ebfc848935506d2ccb9078
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wenzi-01mr
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 621
+        width: 1016
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7aaf291be4b6f946942e872a6f95006
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wenzi-02mr
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114
+        width: 623
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5008026, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc5f388440e6324cbc32898e03fc70c
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d49ace87265f1f6489ceaff085e555a5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

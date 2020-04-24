@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: c43c00b8553b8264aa3f0c8be79ed25c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SignInEveryday
+  - first:
+      213: 21300002
+    second: 1
+  - first:
+      213: 21300004
+    second: 2
+  - first:
+      213: 21300006
+    second: 3
+  - first:
+      213: 21300008
+    second: 4
+  - first:
+      213: 21300010
+    second: 5
+  - first:
+      213: 21300012
+    second: 6
+  - first:
+      213: 21300014
+    second: 7
+  - first:
+      213: 21300016
+    second: bg-02qd
+  - first:
+      213: 21300018
+    second: bg-03qd
+  - first:
+      213: 21300020
+    second: bg-04qd
+  - first:
+      213: 21300022
+    second: bg-bx-01qd
+  - first:
+      213: 21300024
+    second: button-01qd
+  - first:
+      213: 21300026
+    second: icon-01qd
+  - first:
+      213: 21300028
+    second: icon-02qd
+  - first:
+      213: 21300030
+    second: icon-03qd
+  - first:
+      213: 21300032
+    second: tiao-01qd
+  - first:
+      213: 21300034
+    second: wenzi-01qd
+  - first:
+      213: 21300036
+    second: wenzi-02qd
+  - first:
+      213: 21300038
+    second: wenzi-03qd
+  - first:
+      213: 21300040
+    second: wenzi-04qd
+  - first:
+      213: 21300042
+    second: wenzi-05qd
+  - first:
+      213: 21300044
+    second: wenzi-06qd
+  - first:
+      213: 21300046
+    second: wenzi-07qd
+  - first:
+      213: 21300048
+    second: wenzi-08qd
+  - first:
+      213: 21300050
+    second: wenzi-09qd
+  - first:
+      213: 21300052
+    second: wenzi-10qd
+  - first:
+      213: 21300054
+    second: wenzi-bg-03qd
+  - first:
+      213: 21300056
+    second: wenzi-bg-04qd
+  - first:
+      213: 21300058
+    second: wenzi-bg-05qd
+  - first:
+      213: 21300060
+    second: wenzi-bg-06qd
+  - first:
+      213: 21300062
+    second: yuan-01qd
+  - first:
+      213: 21300064
+    second: button-01mr
+  - first:
+      213: 21300066
+    second: wenzi-04pws
+  - first:
+      213: 21300068
+    second: xz_bg
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 733
+        width: 84
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f0a9fd5e0d2094893c2c315fd694a2
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2
+        width: 84
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d7f9d04fe24934db4aa45198871bf3
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 709
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563ce51fb1e18dc40bc5b0991a7009a0
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 8
+        width: 79
+        height: 69
+      alignment: 9
+      pivot: {x: 0.48101267, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4180f7d7a34fe0243acc6a2089ff5633
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 26
+        width: 82
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49367088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa9c0335a007f441b6584c8195d079a
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 627
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820a8456b0b12ee4c9922ee59a688d07
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 329
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef651187d7e791c4bb790ad39856caae
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-02qd
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 297
+        width: 124
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf74a5541f59cd4d878638f1dc1d020
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-03qd
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 731
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d848cb6c4ec3511479442400a381a6d5
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-04qd
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 293
+        width: 204
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d367d8944c092b0468c17107704625c5
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-bx-01qd
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 107
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b632551e8aad1c944ae1c52007b2c9ce
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-01mr
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 629
+        width: 159
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5031447, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362aae09e5b7cbc489e905cb18e1629b
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-01qd
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 284
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdad25c5306f2634eb17cf626275e279
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-01qd
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 79
+        width: 212
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a486ebd8a23342f41a85fc4f78569272
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-02qd
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 495
+        width: 131
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5038168, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044b9f1779c98674d8aac6bdb79e770b
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-03qd
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 313
+        width: 88
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30eb19b1dcc95244b79938a44967580
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiao-01qd
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 613
+        width: 260
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27de7d91a73b6a041af1d5a143cc48f5
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wenzi-01qd
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 791
+        width: 700
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a94cb99c67cad541bfcd56907ddb708
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wenzi-02qd
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 693
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdc7e4eb0263fc4faa2d5ae9d78c6f6
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wenzi-04pws
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 9
+        width: 132
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3be59d1b21db5439e5d8b82c573160
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wenzi-bg-06qd
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 377
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fbc50d0f2a3e343b154ec08ff6b8cc
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xz_bg
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 411
+        width: 212
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbb2b1afaafc424b81f16ba8abefc74
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yuan-01qd
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 329
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406afd92fe2b03146ae67a840840d0bf
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 999e7d484c5fc87478cb50753656d3f3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

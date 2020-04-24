@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: 35cbc9c90ca46504d8a2d2b720343c0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: xinhao_1
+  - first:
+      213: 21300002
+    second: zhishi_1
+  - first:
+      213: 21300004
+    second: zhishi_2
+  - first:
+      213: 21300006
+    second: zhishi_blue_1
+  - first:
+      213: 21300008
+    second: zhishi_blue_2
+  - first:
+      213: 21300010
+    second: zhishi_green_1
+  - first:
+      213: 21300012
+    second: zhishi_green_2
+  - first:
+      213: 21300014
+    second: zhishi_red_1
+  - first:
+      213: 21300016
+    second: zhishi_red_2
+  - first:
+      213: 21300018
+    second: zhishi_white_1
+  - first:
+      213: 21300020
+    second: zhishi_white_2
+  - first:
+      213: 21300022
+    second: esc_1
+  - first:
+      213: 21300024
+    second: esc_2
+  - first:
+      213: 21300026
+    second: esc_3
+  - first:
+      213: 21300028
+    second: White
+  - first:
+      213: 21300030
+    second: talk_1
+  - first:
+      213: 21300032
+    second: Toggle
+  - first:
+      213: 21300034
+    second: 'Toggle_BG '
+  - first:
+      213: 21300036
+    second: chat
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chat
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 435
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2f6fa89a149dc4ab724b33b1ea3a38
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esc_1
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 423
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e2a7eed582e7347ae58e98e84a6221
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esc_2
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 423
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acc6023642af5448bb1ef01819e0303
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esc_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 456
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9e54937ca7ee9458af66da5ad76dc6
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk_1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 434
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f17cafdd7ab53409e05312f11a804f
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toggle
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 254
+        width: 132
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00c6543eda461f42a271e44ffc2bf3c
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'Toggle_BG '
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 50
+        width: 335
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2885527238c8146847956895c26cf3
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 503
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c394bbc16578ef74fbf688a747898b32
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xinhao_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 435
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee02f5a947fc0941ba27c727b67cf18
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhishi_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 240
+        width: 72
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e938569d63a7049a24d7da5a6b6fbe
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhishi_2
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 17
+        width: 186
+        height: 368
+      alignment: 9
+      pivot: {x: 0.50537634, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e884be924917ab4bbdab637bbce422c
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhishi_blue_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 460
+        width: 61
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4262295, y: -0.42156863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da96417653c0de0499b44ff3bf6b8f33
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhishi_blue_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 241
+        width: 128
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088e5ff1f43d60248ba2dbdde6424063
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhishi_green_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 453
+        width: 51
+        height: 58
+      alignment: 9
+      pivot: {x: 0.6862745, y: 0.9741379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7999e5070f7814fa5111638a896753
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhishi_green_2
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 387
+        width: 144
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ec11df32ebe924aafc93d2b80a2c9b
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhishi_red_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 454
+        width: 52
+        height: 57
+      alignment: 9
+      pivot: {x: 0.6730769, y: -0.00877193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa0877f02d642f47af8da26fed669bf
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhishi_red_2
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 391
+        width: 148
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fd105f71188414698926959e2ed42c
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhishi_white_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 457
+        width: 59
+        height: 54
+      alignment: 9
+      pivot: {x: 0.40677965, y: 1.3425926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae9b3ba83d61b644a48490189e01496
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhishi_white_2
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 237
+        width: 131
+        height: 148
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c577bf548e51f9489f33035c7b12984
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
