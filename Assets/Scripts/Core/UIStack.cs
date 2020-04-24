@@ -143,6 +143,11 @@ public class UIStack
             return;
         }
 
+        if (controller.Name != name)
+        {
+            Debug.LogWarning($"The name of UIController '{controller.Name}' does not match the UI name '{name}'!");
+        }
+
         var uiInfo = new UIInfo
         {
             controller = controller,
@@ -153,6 +158,8 @@ public class UIStack
         uiStack.Push(uiInfo);
 
         CheckSwallow();
+
+        controller.SetDepth(uiStack.Count - 1);
 
         controller.OnCreate(arguments);
         controller.OnOpen(arguments);
