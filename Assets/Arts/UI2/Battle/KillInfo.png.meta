@@ -1,0 +1,1381 @@
+fileFormatVersion: 2
+guid: 176e5a220b068444e9172cb9e4097060
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 001_1
+  - first:
+      213: 21300002
+    second: 001_2
+  - first:
+      213: 21300004
+    second: 1kill_1
+  - first:
+      213: 21300006
+    second: 1kill_bg
+  - first:
+      213: 21300008
+    second: 002
+  - first:
+      213: 21300010
+    second: 2kill_1
+  - first:
+      213: 21300012
+    second: 2kill_2
+  - first:
+      213: 21300014
+    second: 2kill_bg
+  - first:
+      213: 21300016
+    second: 003_1
+  - first:
+      213: 21300018
+    second: 003_2
+  - first:
+      213: 21300020
+    second: 3kill_1
+  - first:
+      213: 21300022
+    second: 3kill_2
+  - first:
+      213: 21300024
+    second: 3kill_bg
+  - first:
+      213: 21300026
+    second: 004_1
+  - first:
+      213: 21300028
+    second: 004_2
+  - first:
+      213: 21300030
+    second: 4kill_1
+  - first:
+      213: 21300032
+    second: 4kill_2
+  - first:
+      213: 21300034
+    second: 4kill_bg
+  - first:
+      213: 21300036
+    second: 005_1
+  - first:
+      213: 21300038
+    second: 005_2
+  - first:
+      213: 21300040
+    second: 5kill_1
+  - first:
+      213: 21300042
+    second: 5kill_2
+  - first:
+      213: 21300044
+    second: 5kill_bg
+  - first:
+      213: 21300046
+    second: allkill
+  - first:
+      213: 21300048
+    second: battle_2_dead_border
+  - first:
+      213: 21300050
+    second: blue_1_1
+  - first:
+      213: 21300052
+    second: firstkill
+  - first:
+      213: 21300054
+    second: fristblood
+  - first:
+      213: 21300056
+    second: jisha
+  - first:
+      213: 21300058
+    second: kscb_1
+  - first:
+      213: 21300060
+    second: kscb_bg
+  - first:
+      213: 21300062
+    second: red_1_1
+  - first:
+      213: 21300064
+    second: red_bg
+  - first:
+      213: 21300066
+    second: roushan_icon
+  - first:
+      213: 21300068
+    second: roushan_icon_2
+  - first:
+      213: 21300070
+    second: select_hero_3_head_border_big
+  - first:
+      213: 21300072
+    second: 006
+  - first:
+      213: 21300074
+    second: zhugong_1
+  - first:
+      213: 21300076
+    second: BG_ACE
+  - first:
+      213: 21300078
+    second: BG_FRISTBLOOD
+  - first:
+      213: 21300080
+    second: BG_4
+  - first:
+      213: 21300082
+    second: BG_1
+  - first:
+      213: 21300084
+    second: BG_5
+  - first:
+      213: 21300086
+    second: BG_3
+  - first:
+      213: 21300088
+    second: BG_2
+  - first:
+      213: 21300090
+    second: BG_RED
+  - first:
+      213: 21300092
+    second: BG_BLUE
+  - first:
+      213: 21300094
+    second: ICON_FRISTBLOOD
+  - first:
+      213: 21300096
+    second: ICON_SUPPERCREEP_MINE
+  - first:
+      213: 21300098
+    second: ICON_SUPPERCREEP_OTHER
+  - first:
+      213: 21300100
+    second: ICON_DESTOWER_OTHER
+  - first:
+      213: 21300102
+    second: ICON_KILLROSHAN_MINE
+  - first:
+      213: 21300104
+    second: ICON_KILLROSHAN_OTHER
+  - first:
+      213: 21300106
+    second: ICON_ROSHAN_COMING
+  - first:
+      213: 21300108
+    second: ICON_DESTOWER_MINE
+  - first:
+      213: 21300110
+    second: ICON_ACE_OTHER
+  - first:
+      213: 21300112
+    second: ICON_MUILTKILL_4
+  - first:
+      213: 21300114
+    second: ICON_MUILTKILL_5
+  - first:
+      213: 21300116
+    second: ICON_ACE_MINE
+  - first:
+      213: 21300118
+    second: ICON_MUILTKILL_3
+  - first:
+      213: 21300120
+    second: ICON_CONTIKILL_3
+  - first:
+      213: 21300122
+    second: ICON_CONTIKILL_4
+  - first:
+      213: 21300124
+    second: ICON_CONTIKILL_5
+  - first:
+      213: 21300126
+    second: ICON_MUILTKILL_2
+  - first:
+      213: 21300128
+    second: ICON_CONTIKILL_6
+  - first:
+      213: 21300130
+    second: ICON_CONTIKILL_7
+  - first:
+      213: 21300132
+    second: ICON_KILL
+  - first:
+      213: 21300134
+    second: ICON_KILLROSHAN_SHOUTDOWN
+  - first:
+      213: 21300136
+    second: ICON_KILL_TAOTIE_OTHER
+  - first:
+      213: 21300138
+    second: ICON_KILL_TAOTIE_MINE
+  - first:
+      213: 21300140
+    second: ICON_KILL_HUNDUN_MINE
+  - first:
+      213: 21300142
+    second: ICON_KILL_HUNDUN_OTHER
+  - first:
+      213: 21300144
+    second: ICON_SUPER_CREEP_OTHER
+  - first:
+      213: 21300146
+    second: ICON_SUPER_CREEP_MINE
+  - first:
+      213: 21300148
+    second: BG_RED_02
+  - first:
+      213: 21300150
+    second: BG_BLUE_02
+  - first:
+      213: 21300152
+    second: BG_RED_03
+  - first:
+      213: 21300154
+    second: BG_BLUE_03
+  - first:
+      213: 21300156
+    second: sf_02
+  - first:
+      213: 21300158
+    second: ht
+  - first:
+      213: 21300160
+    second: sf_1
+  - first:
+      213: 21300162
+    second: xb
+  - first:
+      213: 21300164
+    second: tt
+  - first:
+      213: 21300166
+    second: tt_02
+  - first:
+      213: 21300168
+    second: ht_02
+  - first:
+      213: 21300170
+    second: tx_bg
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 52
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BG_ACE
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1626
+        width: 529
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_FRISTBLOOD
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1661
+        width: 409
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_4
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1675
+        width: 409
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_1
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1684
+        width: 409
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1281
+        width: 409
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1314
+        width: 409
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_2
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1337
+        width: 409
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_RED_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1174
+        width: 628
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_BLUE_02
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1519
+        width: 628
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_RED_03
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1174
+        width: 530
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_BLUE_03
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1174
+        width: 530
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_BLUE
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1067
+        width: 491
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_RED
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1067
+        width: 491
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_1_1
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1037
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_1_1
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1037
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roushan_icon
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1039
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_SUPPERCREEP_OTHER
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1120
+        width: 333
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_SUPPERCREEP_MINE
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 983
+        width: 333
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_2_dead_border
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 907
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sf_02
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 983
+        width: 277
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ht
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 983
+        width: 277
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sf_1
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 983
+        width: 277
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xb
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 983
+        width: 277
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tt
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 983
+        width: 277
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jisha
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 917
+        width: 115
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_DESTOWER_OTHER
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 866
+        width: 330
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tt_02
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 853
+        width: 235
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ht_02
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 853
+        width: 235
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_DESTOWER_MINE
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 866
+        width: 289
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kscb_1
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 866
+        width: 248
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_ACE_MINE
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 858
+        width: 197
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_ACE_OTHER
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 858
+        width: 197
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_MUILTKILL_2
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 804
+        width: 196
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_MUILTKILL_3
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 804
+        width: 196
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_CONTIKILL_6
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 804
+        width: 196
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_CONTIKILL_7
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 804
+        width: 196
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_FRISTBLOOD
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 804
+        width: 196
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_MUILTKILL_5
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 804
+        width: 196
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_CONTIKILL_5
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 858
+        width: 196
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_CONTIKILL_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 804
+        width: 196
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_CONTIKILL_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 804
+        width: 196
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_MUILTKILL_4
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 804
+        width: 196
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tx_bg
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 758
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_KILL
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 803
+        width: 113
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roushan_icon_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 686
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_KILLROSHAN_SHOUTDOWN
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 710
+        width: 113
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_hero_3_head_border_big
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 695
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhugong_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 728
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

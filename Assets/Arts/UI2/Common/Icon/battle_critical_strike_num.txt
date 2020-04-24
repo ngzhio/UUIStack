@@ -1,0 +1,100 @@
+{"frames": {
+
+"hero_coin_icon.png":
+{
+	"frame": {"x":76,"y":127,"w":56,"h":61},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":56,"h":61},
+	"sourceSize": {"w":66,"h":65}
+},
+"main_screen_2_add_button.png":
+{
+	"frame": {"x":165,"y":2,"w":73,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":64},
+	"sourceSize": {"w":73,"h":64}
+},
+"main_screen_2_diamond_icon.png":
+{
+	"frame": {"x":136,"y":185,"w":58,"h":49},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":58,"h":49},
+	"sourceSize": {"w":58,"h":55}
+},
+"main_screen_2_resource_bg.png":
+{
+	"frame": {"x":76,"y":61,"w":72,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":64},
+	"sourceSize": {"w":72,"h":64}
+},
+"main_screen_2_ticket_icon.png":
+{
+	"frame": {"x":187,"y":131,"w":54,"h":55},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":54,"h":55},
+	"sourceSize": {"w":58,"h":55}
+},
+"select_hero_3_head_border_big.png":
+{
+	"frame": {"x":150,"y":68,"w":61,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":61},
+	"sourceSize": {"w":61,"h":61}
+},
+"select_hero_3_skill_key_bg.png":
+{
+	"frame": {"x":76,"y":2,"w":87,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":57},
+	"sourceSize": {"w":87,"h":57}
+},
+"select_hero_3_skill_key_icon.png":
+{
+	"frame": {"x":213,"y":68,"w":39,"h":40},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":40},
+	"sourceSize": {"w":39,"h":40}
+},
+"select_hero_3_skill_time_icon.png":
+{
+	"frame": {"x":76,"y":185,"w":58,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":58},
+	"sourceSize": {"w":58,"h":58}
+},
+"select_mode_2_button_green.png":
+{
+	"frame": {"x":2,"y":112,"w":72,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":108},
+	"sourceSize": {"w":72,"h":108}
+},
+"select_mode_2_button_normal.png":
+{
+	"frame": {"x":2,"y":2,"w":72,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":108},
+	"sourceSize": {"w":72,"h":108}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "CommonIcon.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a0ce760d2f3a7eeefb515f24dfd97fb7:f98fa9b0b7661c48700fa32e6653e68f:a6e9548d790be8f4e254aa690200677e$"
+}
+}
