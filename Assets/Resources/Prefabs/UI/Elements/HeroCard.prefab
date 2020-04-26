@@ -178,6 +178,7 @@ GameObject:
   - component: {fileID: 5887170396541418387}
   - component: {fileID: 3893479119519942925}
   - component: {fileID: 7917246307078476976}
+  - component: {fileID: 2344666919521616065}
   m_Layer: 5
   m_Name: HeroCard
   m_TagString: Untagged
@@ -285,3 +286,17 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &2344666919521616065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7586832958970708525}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5dcbd1354b67476eb29b2bb7eaaae30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  heroImage: {fileID: 3893479119519942925}
+  heroName: {fileID: 3814782161061101615}
