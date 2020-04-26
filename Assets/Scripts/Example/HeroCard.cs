@@ -20,4 +20,9 @@ public class HeroCard : MonoBehaviour
         }
         heroImage.sprite = sprites[0];
     }
+
+    public void OnClick()
+    {
+        UIStack.GetInstance().Open("UIHeroDetail");
+    }
 }
