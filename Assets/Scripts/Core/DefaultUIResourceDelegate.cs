@@ -6,9 +6,16 @@ public class DefaultUIResourceDelegate : IUIResourceDelegate
 
     private GameObject uiRoot;
 
+    private string resourceRoot;
+
+    public DefaultUIResourceDelegate(string resourceRoot)
+    {
+        this.resourceRoot = resourceRoot;
+    }
+
     public UIController Load(string uiName)
     {
-        var res = Resources.Load<GameObject>($"UI/{uiName}");
+        var res = Resources.Load<GameObject>($"{resourceRoot}/{uiName}");
         if (res == null)
         {
             Debug.LogError($"Load the resource of {uiName} failed!");
