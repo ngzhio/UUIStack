@@ -27,6 +27,6 @@ public class HeroCard : MonoBehaviour
 
     public void OnClick()
     {
-        UIStack.GetInstance().Open("UIHeroDetail", new UIHeroDetailArguments(this.heroID));
+        UIStack.GetInstance().Open(UINames.UIHeroDetail, new UIHeroDetailArguments(this.heroID));
     }
 }

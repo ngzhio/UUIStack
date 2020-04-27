@@ -5,6 +5,6 @@ public class SceneHome : MonoBehaviour
     void Start()
     {
         UIStack.GetInstance().Init(new DefaultUIResourceDelegate("Prefabs/UI"))
-               .Open("UIHome");
+               .Open(UINames.UIHome);
     }
 }
