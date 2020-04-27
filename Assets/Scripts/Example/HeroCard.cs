@@ -9,8 +9,12 @@ public class HeroCard : MonoBehaviour
     [SerializeField]
     private Text heroName;
 
+    private int heroID;
+
     public void SetHeroID(int heroID)
     {
+        this.heroID = heroID;
+
         string heroImagePath = $"Arts/UI2/HeroIcon/{heroID}/HeroSkin/{heroID}2101";
         var sprites = Resources.LoadAll<Sprite>(heroImagePath);
         if (sprites.Length == 0)
@@ -23,6 +27,6 @@ public class HeroCard : MonoBehaviour
 
     public void OnClick()
     {
-        UIStack.GetInstance().Open("UIHeroDetail");
+        UIStack.GetInstance().Open("UIHeroDetail", new UIHeroDetailArguments(this.heroID));
     }
 }

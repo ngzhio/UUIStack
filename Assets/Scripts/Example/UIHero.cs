@@ -15,6 +15,8 @@ public class UIHero : UGUIController
 
     public override void OnOpen(IUIArguments arguments)
     {
+        base.OnOpen(arguments);
+        
         LoadHeroCards();
     }
 
