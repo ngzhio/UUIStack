@@ -2,52 +2,55 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-class UIInfo
+/// <summary>
+/// A manager of the UI stack.
+/// </summary>
+public class UIManager
 {
-    public UIController controller;
-    public IUIArguments arguments;
-    public bool swallow;
-}
+    /// <summary>
+    /// Top is at the 0 index
+    /// </summary>
+    /// <typeparam name="UIInfo"></typeparam>
+    /// <returns></returns>
+    private Stack<UIInfo> uiStack = new Stack<UIInfo>();
 
-/**
- * A manager of the UI stack.
- */
-public class UIStack
-{
-    private Stack<UIInfo> uiStack = new Stack<UIInfo>(); // Top is at the 0 index
+    private IUIResourceAgent uIResourceAgent;
 
-    private IUIResourceDelegate uIResourceDelegate;
+    private IUIDepthAgent uIDepthAgent;
 
-    private static UIStack instance;
+    private static UIManager instance;
 
-    public static UIStack GetInstance()
+    public static UIManager Instance
     {
-        if (instance == null)
+        get 
         {
-            instance = new UIStack();
-        }
-        return instance;
+            if (instance == null)
+            {
+                instance = new UIManager();
+            }
+            return instance;
+        }   
     }
 
-    private UIStack()
+    private UIManager()
     {
 
     }
 
-    public UIStack Init(IUIResourceDelegate uIResourceDelegate)
+    public UIManager Init(IUIResourceAgent uIResourceAgent, IUIDepthAgent uIDepthAgent)
     {
-        this.uIResourceDelegate = uIResourceDelegate;
+        this.uIResourceAgent = uIResourceAgent;
+        this.uIDepthAgent = uIDepthAgent;
         return this;
     }
 
-    /**
-     * Open a UI.
-     *
-     * @param name       The name of the UI.
-     * @param arguments  The arguments passed to the UI.
-     * @param swallow    Whether the UI should swallow UIs beneath it.
-     * @param duplicate  Whether the UI can be duplicated.
-     */
+    /// <summary>
+    /// Open a UI.
+    /// </summary>
+    /// <param name="name">The name of the UI.</param>
+    /// <param name="arguments">The arguments passed to the UI.</param>
+    /// <param name="swallow">Whether the UI should swallow UIs beneath it.</param>
+    /// <param name="duplicate">Whether the UI can be duplicated.</param>
     public void Open(string name, IUIArguments arguments = null, bool swallow = false, bool duplicate = false)
     {
         if (duplicate)
@@ -68,19 +71,18 @@ public class UIStack
         }
     }
 
-    /**
-     * Close the UI at the top.
-     */
+    /// <summary>
+    /// Close the UI at the top.
+    /// </summary>
     public void CloseTop()
     {
         CloseTo(1);
     }
 
-    /**
-     * Close UIs from the top to the bottom, until a specific UI is at the top.
-     *
-     * @param name  The name of the UI that should finally be at the top.
-     */
+    /// <summary>
+    /// Close UIs from the top to the bottom, until a specific UI is at the top.
+    /// </summary>
+    /// <param name="name">The name of the UI that should finally be at the top.</param>
     public void CloseTo(string name)
     {
         int index = FindUIIndex(name);
@@ -90,9 +92,9 @@ public class UIStack
         }
     }
 
-    /**
-     * Close all UIs.
-     */
+    /// <summary>
+    /// Close all UIs.
+    /// </summary>
     public void CloseAll()
     {
         while (uiStack.Count > 0)
@@ -114,7 +116,7 @@ public class UIStack
 
             uiInfo.controller.OnClose();
 
-            uIResourceDelegate.Release(uiInfo.controller);
+            uIResourceAgent.Release(uiInfo.controller);
 
             index--;
         }
@@ -128,7 +130,10 @@ public class UIStack
 
             if (onOpen)
             {
-                peek.controller.OnOpen(peek.arguments);
+                var depth = uiStack.Count - 1;
+                this.uIDepthAgent.SetDepth(peek.controller.gameObject, depth);
+
+                peek.controller.OnOpen(peek.arguments, depth);
             }
 
             peek.controller.OnTop();
@@ -137,7 +142,7 @@ public class UIStack
 
     private void Create(string name, IUIArguments arguments, bool swallow)
     {
-        UIController controller = uIResourceDelegate.Load(name);
+        UIController controller = uIResourceAgent.Load(name);
         if (controller == null)
         {
             return;
@@ -159,10 +164,11 @@ public class UIStack
 
         CheckSwallow();
 
-        controller.SetDepth(uiStack.Count - 1);
+        var depth = uiStack.Count - 1;
+        this.uIDepthAgent.SetDepth(controller.gameObject, depth);
 
         controller.OnCreate(arguments);
-        controller.OnOpen(arguments);
+        controller.OnOpen(arguments, depth);
         controller.OnTop();
     }
 
@@ -197,7 +203,7 @@ public class UIStack
 
     private void SetUIVisible(UIInfo uiInfo, bool visible)
     {
-        uiInfo.controller.SetUIVisible(visible);
+        uiInfo.controller.gameObject.SetActive(visible);
     }
 
     private int FindUIIndex(string name)

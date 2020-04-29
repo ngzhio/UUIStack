@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class DefaultUIResourceDelegate : IUIResourceDelegate
+public class DefaultUIResourceAgent : IUIResourceAgent
 {
     public static readonly string UI_ROOT_NAME = "UIRoot";
 
@@ -8,7 +8,7 @@ public class DefaultUIResourceDelegate : IUIResourceDelegate
 
     private string resourceRoot;
 
-    public DefaultUIResourceDelegate(string resourceRoot)
+    public DefaultUIResourceAgent(string resourceRoot)
     {
         this.resourceRoot = resourceRoot;
     }

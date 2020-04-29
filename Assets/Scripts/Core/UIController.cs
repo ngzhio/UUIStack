@@ -12,24 +12,14 @@ public class UIController : MonoBehaviour
         }
     }
 
-    public virtual void SetUIVisible(bool visible)
-    {
-        gameObject.SetActive(visible);
-    }
-
-    public virtual void SetDepth(int depth)
-    {
-        Debug.Log($"Set the depth of '{this.Name}' to {depth}.");
-    }
-
     public virtual void OnCreate(IUIArguments arguments)
     {
         Debug.Log($"UIController '{this.Name}' created with arguments {arguments}.");
     }
 
-    public virtual void OnOpen(IUIArguments arguments)
+    public virtual void OnOpen(IUIArguments arguments, int depth)
     {
-        Debug.Log($"UIController '{this.Name}' opened with arguments {arguments}.");
+        Debug.Log($"UIController '{this.Name}' opened with arguments {arguments} and depth {depth}.");
     }
 
     public virtual void OnClose()

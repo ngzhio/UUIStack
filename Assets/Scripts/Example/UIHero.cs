@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class UIHero : UGUIController
+public class UIHero : UIController
 {
     [SerializeField]
     private GameObject heroCardTemplate;
@@ -10,12 +10,12 @@ public class UIHero : UGUIController
 
     public void OnClickBackButton()
     {
-        UIStack.GetInstance().CloseTop();
+        UIManager.Instance.CloseTop();
     }
 
-    public override void OnOpen(IUIArguments arguments)
+    public override void OnOpen(IUIArguments arguments, int depth)
     {
-        base.OnOpen(arguments);
+        base.OnOpen(arguments, depth);
         
         LoadHeroCards();
     }

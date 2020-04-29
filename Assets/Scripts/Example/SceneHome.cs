@@ -4,7 +4,9 @@ public class SceneHome : MonoBehaviour
 {
     void Start()
     {
-        UIStack.GetInstance().Init(new DefaultUIResourceDelegate("Prefabs/UI"))
-               .Open(UINames.UIHome);
+        UIManager.Instance.Init(
+            new DefaultUIResourceAgent("Prefabs/UI"),
+            new UGUIDepthAgent()
+        ).Open(UINames.UIHome);
     }
 }

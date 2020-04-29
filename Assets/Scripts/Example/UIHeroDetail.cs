@@ -11,7 +11,7 @@ public class UIHeroDetailArguments : IUIArguments
     }
 }
 
-public class UIHeroDetail : UGUIController
+public class UIHeroDetail : UIController
 {
     [SerializeField]
     private Image heroImage;
@@ -20,12 +20,12 @@ public class UIHeroDetail : UGUIController
 
     public void OnClickBackButton()
     {
-        UIStack.GetInstance().CloseTop();
+        UIManager.Instance.CloseTop();
     }
 
-    public override void OnOpen(IUIArguments arguments)
+    public override void OnOpen(IUIArguments arguments, int depth)
     {
-        base.OnOpen(arguments);
+        base.OnOpen(arguments, depth);
 
         var _args = (UIHeroDetailArguments) arguments;
         if (_args != null)

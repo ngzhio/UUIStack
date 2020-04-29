@@ -1,4 +1,4 @@
-public class UIInscription : UIController
+public class UIBag : UIController
 {
     public void OnClickBackButton()
     {

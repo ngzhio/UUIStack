@@ -1,27 +1,27 @@
-public class UIHome : UGUIController
+public class UIHome : UIController
 {
     public void OnClickHeroButton()
     {
-        UIStack.GetInstance().Open(UINames.UIHero);
+        UIManager.Instance.Open(UINames.UIHero);
     }
 
     public void OnClickInscriptionButton()
     {
-        UIStack.GetInstance().Open(UINames.UIInscription);
+        UIManager.Instance.Open(UINames.UIInscription);
     }
 
     public void OnClickBagButton()
     {
-        UIStack.GetInstance().Open(UINames.UIBag);
+        UIManager.Instance.Open(UINames.UIBag);
     }
 
     public void OnClickWarButton()
     {
-        UIStack.GetInstance().Open(UINames.UIWar);
+        UIManager.Instance.Open(UINames.UIWar);
     }
 
     public void OnClickBarButton()
     {
-        UIStack.GetInstance().Open(UINames.UIBar);
+        UIManager.Instance.Open(UINames.UIBar);
     }
 }
